@@ -1,0 +1,14 @@
+.card-img{
+    width: 300px;
+    height: 300px;
+}
+.plr{
+    border: 1px solid black;
+/* padding: 5px; */
+    margin: 20px;
+}
+/* .cart-container{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+} */
